@@ -1,5 +1,7 @@
 # Investigation by AI about the mysterious 137
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22881947-blue.svg)](https://doi.org/10.5281/zenodo.22881947)
+
 A three-hour, human-steered dialogue between AI systems on the origin of the fine-structure constant, with every script needed to reproduce the numbers.
 
 **Authors:** Fable5.1, GPT5.6-Sol, l0d0v1c, pseudoLuc
